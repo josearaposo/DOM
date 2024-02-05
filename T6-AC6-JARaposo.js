@@ -11,5 +11,8 @@ function habilitar(){
     document.getElementById('campos4').disabled = false;
 }
 function deshabilitar(){
-    document.getElementById('campos').disabled = true;
+    document.getElementById('campos1').disabled = true;
+    document.getElementById('campos2').disabled = true;
+    document.getElementById('campos3').disabled = true;
+    document.getElementById('campos4').disabled = true;
 }
